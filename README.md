@@ -8,7 +8,7 @@ Arch linux segédletek magyarul.
 
 Arch linux alaprendszer telepítési útmutató
 
-## 2. [Fontos kezdeti beállítások](https://github.com/glakker/arch-howto/wiki#2-fontos-kezdeti-be%C3%A1ll%C3%ADt%C3%A1sok)
+## 2. [Fontos kezdeti beállítások](https://github.com/glakker/arch-howto/wiki/Installation#19-fontos-kezdeti-be%C3%A1ll%C3%ADt%C3%A1sok)
 
 ## 3. [Xorg display server install](https://github.com/glakker/arch-howto/wiki/Xorg%E2%80%90install)
 

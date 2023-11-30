@@ -12,6 +12,6 @@ Arch linux alaprendszer telepítési útmutató
 
 makepkg, pacman és egyéb fontos kezdeti beállítások
 
-## 3. [Xorg display server install](https://github.com/glakker/arch-howto/wiki/Xorg%E2%80%90install)
+## 3. [Xorg display server install](https://github.com/glakker/arch-howto/wiki/Xorg)
 
 A Xorg és valamilyen X11 window manager telepítése

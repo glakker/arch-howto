@@ -1,3 +1,5 @@
 # Arch linux segédletek
 
-Lásd wiki
+Arch linux telepítési segédlet magyarul.
+
+Lásd Wiki

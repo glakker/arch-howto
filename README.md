@@ -1,5 +1,15 @@
-# Arch linux segédletek
+Welcome to glakker's arch-howto wiki!
 
-Arch linux telepítési segédlet magyarul.
+# [Arch linux segédletek](https://github.com/glakker/arch-howto/wiki)
 
-Lásd Wiki
+Arch linux segédletek magyarul.
+
+## 1. [Arch base install](https://github.com/glakker/arch-howto/wiki/Installation)
+
+Arch linux alaprendszer telepítési útmutató
+
+## 2. [Fontos kezdeti beállítások](https://github.com/glakker/arch-howto/wiki#2-fontos-kezdeti-be%C3%A1ll%C3%ADt%C3%A1sok)
+
+## 3. [Xorg display server install](https://github.com/glakker/arch-howto/wiki/Xorg%E2%80%90install)
+
+A Xorg és valamilyen X11 window manager telepítése

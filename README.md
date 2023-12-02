@@ -8,7 +8,7 @@ Arch linux segédletek magyarul.
 
 Arch linux alaprendszer telepítési útmutató
 
-## 2. [Fontos kezdeti beállítások](https://github.com/glakker/arch-howto/wiki/Installation#19-fontos-kezdeti-be%C3%A1ll%C3%ADt%C3%A1sok)
+## 2. [Fontos kezdeti beállítások](https://github.com/glakker/arch-howto/wiki/Basicsettings)
 
 makepkg, pacman és egyéb fontos kezdeti beállítások
 
